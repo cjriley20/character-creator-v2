@@ -29,3 +29,11 @@
 
 .controlColumn {
 }
+
+.bar {
+  background-color: hsl(195deg, 20%, 86%);
+  width: 100%;
+  height: 500px;
+  position: fixed;
+  bottom: 0;
+}
